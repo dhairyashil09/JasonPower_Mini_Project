@@ -7,4 +7,5 @@
 * Minimize the total cost of onwership.
 * Works on fastest indexing engine that is "Power Index".
 * JasonPowerDB works on WEB Servie API which makes Low Development Cost.
-## Main Code: public_html/index.html
+## Main Code:
+* Go to public_html then Index HTML.
