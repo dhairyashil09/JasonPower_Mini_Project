@@ -1,0 +1,8 @@
+{
+    "name": "JasonPower",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "dadus",
+    "contributors": [],
+    "dependencies": {}
+}
